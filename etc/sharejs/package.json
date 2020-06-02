@@ -20,7 +20,7 @@
     "sharejs-sharingserver": "bin/sharingserver"
   },
   "dependencies": {
-    "socket.io": "~0.8",
+    "socket.io": "~2.3",
     "socket.io-client": "~0.8",
     "connect": ">= 1.1.1 < 2.0.0",
     "optimist": ">= 0.2.4",
